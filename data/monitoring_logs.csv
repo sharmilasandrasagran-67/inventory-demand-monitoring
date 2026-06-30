@@ -1,0 +1,2 @@
+timestamp,SalesPrice,Volume,Classification,Store,day_of_week,day_of_month,prediction,actual_quantity,error,absolute_error,latency_ms,feedback_score,feedback_text
+2026-06-30T11:43:16.292475,12.99,750,1,1,2,15,5.0,3.0,-2.0,2.0,12.5,4,Test log
